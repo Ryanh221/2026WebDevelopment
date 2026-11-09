@@ -29,6 +29,7 @@ body {
                  apply some type of styling using the filter( ) effect
 */
 .firstGallery img{
+    border-radius: 6px;
     height:200px;
     filter:grayscale(100%)
 }
