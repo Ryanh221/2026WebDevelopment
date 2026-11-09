@@ -33,7 +33,7 @@ body {
 */
 .firstGallery img{
     padding:20px;
-    border-radius: 6px;
+    border-radius: 10px;
     height:200px;
     filter:grayscale(100%)
 }
@@ -44,6 +44,7 @@ body {
                  apply some other type of styling.
 */
 #secondGallery img {
+    border-radius: 10px;
     padding:20px;
     filter:grayscale(100%)
 }
